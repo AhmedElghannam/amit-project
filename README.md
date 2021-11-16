@@ -1,1 +1,1 @@
-# amit-project
+# AmitProject
